@@ -1,7 +1,7 @@
 # EOSC Future Data Transfer
 
 This project builds a proxy component that can initiate data transfers to multiple
-storage backends. Initially, [EGI Transfer Service](https://docs.egi.eu/users/datahub/)
+storage backends. Initially, [EGI DataHub Service](https://docs.egi.eu/users/data/management/datahub/)
 will be supported.
 
 A space in EGI DataHub is just a hierarchical structure of containers (folders) and objects (files).
